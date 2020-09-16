@@ -10,7 +10,7 @@ import Register from './Register';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/webtest2'>
       <Switch>
         <Route exact path='/'>
           <Home/>
