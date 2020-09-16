@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "379d75d1e3228025625f5c6cbb3d258b",
+    "revision": "8b91b5c60d51b3bbac78fbdfbef86a28",
     "url": "/newrules/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newrules/static/css/2.7e445568.chunk.css"
   },
   {
-    "revision": "01befd44666345d057c1",
+    "revision": "aad975ca6811a2311c09",
     "url": "/newrules/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newrules/static/js/2.dd0f6f96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "01befd44666345d057c1",
-    "url": "/newrules/static/js/main.386491dd.chunk.js"
+    "revision": "aad975ca6811a2311c09",
+    "url": "/newrules/static/js/main.5f228128.chunk.js"
   },
   {
     "revision": "bc154ade69e3d8176cce",

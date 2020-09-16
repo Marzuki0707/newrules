@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/newrules/static/css/main.5f361e03.chunk.css",
-    "main.js": "/newrules/static/js/main.386491dd.chunk.js",
-    "main.js.map": "/newrules/static/js/main.386491dd.chunk.js.map",
+    "main.js": "/newrules/static/js/main.5f228128.chunk.js",
+    "main.js.map": "/newrules/static/js/main.5f228128.chunk.js.map",
     "runtime-main.js": "/newrules/static/js/runtime-main.4bf62fd2.js",
     "runtime-main.js.map": "/newrules/static/js/runtime-main.4bf62fd2.js.map",
     "static/css/2.7e445568.chunk.css": "/newrules/static/css/2.7e445568.chunk.css",
     "static/js/2.dd0f6f96.chunk.js": "/newrules/static/js/2.dd0f6f96.chunk.js",
     "static/js/2.dd0f6f96.chunk.js.map": "/newrules/static/js/2.dd0f6f96.chunk.js.map",
     "index.html": "/newrules/index.html",
-    "precache-manifest.1481932cbb0ae437deed72b0a8dbadcc.js": "/newrules/precache-manifest.1481932cbb0ae437deed72b0a8dbadcc.js",
+    "precache-manifest.035a60cea0d9e04834ba439a4f65e4a7.js": "/newrules/precache-manifest.035a60cea0d9e04834ba439a4f65e4a7.js",
     "service-worker.js": "/newrules/service-worker.js",
     "static/css/2.7e445568.chunk.css.map": "/newrules/static/css/2.7e445568.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/newrules/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.7e445568.chunk.css",
     "static/js/2.dd0f6f96.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.386491dd.chunk.js"
+    "static/js/main.5f228128.chunk.js"
   ]
 }
